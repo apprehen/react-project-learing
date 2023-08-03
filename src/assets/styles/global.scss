@@ -8,3 +8,15 @@ body{
 img {
   -webkit-user-drag: none;
 }
+
+// title字体
+@font-face {
+  font-family: TitleEng;
+  src: url('@/assets/fonts/meorugendtrialregular-9ydeb.ttf');
+}
+
+// 正文字体
+@font-face {
+  font-family: TitleChi;
+  src: url('@/assets/fonts/zaozigongfangtianliti.TTF');
+}
