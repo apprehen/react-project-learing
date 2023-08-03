@@ -7,8 +7,8 @@ const Add = (props: { add: any }) => {
 			<div className={styles["add-icon"]}>
 				<AddIcon
 					style={{
-						width: "100%",
-						height: "100%",
+						width: "32px",
+						height: "32px",
 						fill: "black",
 					}}
 				></AddIcon>
